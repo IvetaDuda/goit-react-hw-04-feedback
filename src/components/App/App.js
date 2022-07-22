@@ -1,4 +1,4 @@
-import Counter from './FeedbackWidget';
+import Counter from '../FeedbackWidget';
 
 const App = () => {
   return (
